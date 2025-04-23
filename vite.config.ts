@@ -9,4 +9,7 @@ export default defineConfig({
     host: "0.0.0.0", // Bind to all network interfaces
     port: 3000, // Specify the port
   },
+  preview: {
+    allowedHosts: ["near-portfolio.onrender.com"],
+  },
 });

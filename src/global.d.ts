@@ -1,2 +1,3 @@
-declare module "emailjs-com";
-declare module "framer-motion";
+declare module "*.jpg";
+declare module "*.png";
+declare module "*.svg";

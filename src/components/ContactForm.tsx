@@ -88,7 +88,7 @@ const ContactForm: React.FC = () => {
             className="hover:text-red-500 flex flex-col items-center"
           >
             <FaEnvelope />
-            <span className="text-sm">joamrmerej@gmail.com</span>
+            <span className="text-sm">jomarmerej@gmail.com</span>
           </a>
         </div>
       </div>
